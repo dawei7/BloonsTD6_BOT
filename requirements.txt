@@ -1,0 +1,4 @@
+pandas==2.2.2
+pydirectinput==1.0.4
+PyAutoGUI==0.9.5
+pywin32==306
