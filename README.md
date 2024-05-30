@@ -51,12 +51,13 @@ Make sure you have the following settings:
 To run the bot, use the following command:
 
 ```bash
-venv\Scripts\python.exe main.py --mode "<mode>" --control_path "<path_to_control_file>"
+"<python.exe in your venv>" "<main.py on your local repo> " --mode "<mode>" --control_path "<path_to_control_file>"
+C:/Users/david/Desktop/BloonsTD6_BOT/venv/Scripts/python.exe C:/Users/david/Desktop/BloonsTD6_BOT/src/main.py --mode "<mode>" --control_path "<path_to_control_file>"control.xlsm"
 ```
 
 ### Example
 ```bash
-venv\Scripts\python.exe main.py --mode "chimps" --control_path "C:/Users/david/Desktop/bloons6_bot/src/control.xlsm"
+C:/Users/david/Desktop/BloonsTD6_BOT/venv/Scripts/python.exe C:/Users/david/Desktop/BloonsTD6_BOT/src/main.py --mode "chimps" --control_path "C:/Users/david/Desktop/bloonsTD6_BOT/src/control.xlsm"
 ```
 
 ### Modes
